@@ -9,7 +9,7 @@
 Building my foundations in software engineering,
 algorithms, and low-level programming.
 
-[GitHub](https://github.com/sjadiri-codes) • [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/sjadiri-codes) • [LinkedIn]([YOUR_LINKEDIN_URL](https://linkedin.com/in/soufiane-jadiri))
 
 </div>
 
@@ -39,4 +39,15 @@ algorithms, and low-level programming.
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjadiri-codes&show_icons=true&theme=github_dark)
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
