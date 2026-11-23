@@ -51,3 +51,21 @@ algorithms, and low-level programming.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
+
+## Featured Projects
+
+### [push_swap](YOUR_REPOSITORY_URL)
+Sorting algorithms using two stacks, with a focus on minimizing operations and optimizing performance.
+
+**Technologies:** C, Algorithms, Data Structures
+
+### [get_next_line](YOUR_REPOSITORY_URL)
+A line-reading function that handles file descriptors, buffering, and dynamic memory allocation.
+
+**Technologies:** C, File I/O, Memory Management
+
+### [libft](YOUR_REPOSITORY_URL)
+A custom C library implementing essential standard library functions from scratch.
+
+**Technologies:** C, Pointers, Memory Management
+
